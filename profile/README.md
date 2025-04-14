@@ -1,3 +1,14 @@
+![1](https://github.com/user-attachments/assets/bc0a2db8-c92d-4156-94f7-66237b29436f)
+![2](https://github.com/user-attachments/assets/c7e92962-3152-42cb-b100-95a7ffb919dd)
+![4](https://github.com/user-attachments/assets/261ba423-abd2-4956-a7c6-ea17e2e324e6)
+![5](https://github.com/user-attachments/assets/c7e6bfd8-406a-4f3b-9657-65ba41a2ea0d)
+![6](https://github.com/user-attachments/assets/3ad37a4b-1ad7-438f-a727-b4b360429272)
+![Slide 16_9 - 13](https://github.com/user-attachments/assets/5346f66b-5bf3-459d-bfa4-9b1fe2a0a316)
+![Slide 16_9 - 14](https://github.com/user-attachments/assets/3230b058-3fc1-49ef-961c-9bb68321b43d)
+![Slide 16_9 - 15](https://github.com/user-attachments/assets/ed34d7bd-1e89-4936-a6d3-48a6c7aa0b11)
+![Slide 16_9 - 16](https://github.com/user-attachments/assets/e3db8c6b-80d9-42d3-b317-670bcb84c94a)
+
+
 # Team: OpenKetchupSource
 - 김혜린
 - 박은효
