@@ -12,7 +12,7 @@
 # Team: OpenKetchupSource
 - 김혜린
 - 박은효
-- 박채린
+- [박채린](https://github.com/cherrynniii)
 - [정선빈](https://github.com/jungsunbeen)
 
 
