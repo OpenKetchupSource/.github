@@ -10,14 +10,14 @@
 
 
 # Team: OpenKetchupSource
-- 김혜린
-- 박은효
-- [박채린](https://github.com/cherrynniii)
-- [정선빈](https://github.com/jungsunbeen)
+- 김혜린: BE, FE
+- 박은효: BE, DE
+- [박채린](https://github.com/cherrynniii): PM, AI, BE(보조)
+- [정선빈](https://github.com/jungsunbeen): FE, AI
 
 
 ## Develop period
-2025.04.DD ~
+2025.05.11 ~
 
 ## Git Commit Convention
 타입(#이슈번호): 부연 설명 및 이유
@@ -45,5 +45,3 @@
 2. `Branch` 생성
 3. `add` → `commit` → `push` → `pull request` 과정을 거친다.
 4. 코드 리뷰 진행 후 모든 팀원들의 승인을 받는다.
-5. `develop branch`로 merge한다.
-6. `develop branch`로 이동하여 `pull`을 받은 다음 위 과정을 반복한다.
