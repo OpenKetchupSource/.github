@@ -10,8 +10,8 @@
 
 
 # Team: OpenKetchupSource
-- 김혜린: BE, FE
-- 박은효: BE, DE
+- [김혜린](https://github.com/dodaaaaam): BE, FE
+- [박은효](https://github.com/acidify04): BE, DE
 - [박채린](https://github.com/cherrynniii): PM, AI, BE(보조)
 - [정선빈](https://github.com/jungsunbeen): FE, AI
 
