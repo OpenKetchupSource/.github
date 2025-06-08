@@ -35,9 +35,9 @@
 
 ---
 ## Branch Convention
-(feat/fix/refactor/chore)/#이슈번호
+(feat/fix/refactor/chore)/이슈번호
 
-> ex) feat/#2
+> ex) feat/2
 
 ---
 ## Git Flow
