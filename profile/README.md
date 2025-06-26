@@ -1,3 +1,9 @@
+## Contributors
+- dodaaaaam (김혜린)
+- acidify04 (박은효)
+- cherrynniii (박채린)
+- jungsunbeen (정선빈)
+
 ![1](https://github.com/user-attachments/assets/bc0a2db8-c92d-4156-94f7-66237b29436f)
 ![2](https://github.com/user-attachments/assets/c7e92962-3152-42cb-b100-95a7ffb919dd)
 ![4](https://github.com/user-attachments/assets/261ba423-abd2-4956-a7c6-ea17e2e324e6)
